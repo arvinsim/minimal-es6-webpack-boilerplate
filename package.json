@@ -6,9 +6,11 @@
   "author": "Arthur Vincent Simon <asimon@innovuze.com>",
   "license": "MIT",
   "scripts": {
-    "build": "./node_modules/webpack/bin/webpack.js"
+    "build": "webpack"
   },
   "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
     "webpack": "^2.2.1"
   }
 }
