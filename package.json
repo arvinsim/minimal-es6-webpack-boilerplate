@@ -6,7 +6,8 @@
   "author": "Arthur Vincent Simon <asimon@innovuze.com>",
   "license": "MIT",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "watch": "webpack --watch"
   },
   "devDependencies": {
     "babel-core": "^6.22.1",
