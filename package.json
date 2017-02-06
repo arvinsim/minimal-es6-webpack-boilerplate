@@ -1,0 +1,14 @@
+{
+  "name": "minimal-es6-webpack-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arvinsim/minimal-es6-webpack-boilerplate.git",
+  "author": "Arthur Vincent Simon <asimon@innovuze.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "./node_modules/webpack/bin/webpack.js"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
